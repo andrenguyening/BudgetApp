@@ -1,0 +1,6 @@
+# Ignore Python __pycache__ directories
+/backend/__pycache__/
+/backend/venv
+
+# Ignore Node.js node_modules directory
+node_modules/
