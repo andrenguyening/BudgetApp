@@ -1,4 +1,4 @@
-# BudgetApp README
+# BudgetApp
 
 A budget application that users can use to track expenses through various categories. Information is fetched using a RESTful API and information is rendered using React. Data is stored using SQLAlchemy. Python and Flask backend and Javascript and React serving the frontend.
 
